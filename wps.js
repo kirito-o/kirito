@@ -8,7 +8,3 @@ obj.userid = id;
 
 $done({body: JSON.stringify(obj)});
 
-/**
-* @supported E428A9C8
-*/
-// Made by Meeta(爱美剧)（官网下载：app.meiju2018.com）
