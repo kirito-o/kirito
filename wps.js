@@ -7,4 +7,6 @@ obj = {"exp":0,"level":3,"privilege":[{"spid":"data_recover","times":0,"expire_t
 obj.userid = id;
 
 $done({body: JSON.stringify(obj)});
-
+/**
+* @supported E428A9C8
+*/
